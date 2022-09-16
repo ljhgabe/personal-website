@@ -31,6 +31,7 @@ class Intro extends React.Component {
                   />
                 </strong>
               </p>
+              <p className="pt-4"><i>Stay hungry, stay foolish -- Steve Jobs</i></p>
               <p className="pt-3">
                 <a
                   className="btn btn-primary btn js-scroll px-4"

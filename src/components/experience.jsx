@@ -19,7 +19,7 @@ class Experience extends React.Component {
                                 "Design API for website to fetch issue information from JIRA",
                                 "Support Auto email of the summary and analysis of issue",
                                 "Improve regression testing by creating java aspect to precreate data and fetch data directly during test time",
-                                "Reduce regression test time 40%"], 
+                                "Reduce regression test time by 40%"], 
                 Date:"2021 Jan - 2021 July"},
                 {id: 2,
                 company: "NUS Ubicomp Lab",
