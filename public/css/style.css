@@ -986,6 +986,7 @@ BUTTON
   }
 }
 
+
 @media (min-width: 992px) {
   .testimonial-box .description {
     padding: 0 8rem;
@@ -1008,4 +1009,11 @@ BUTTON
   .back-to-top {
     bottom: 15px;
   }
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
