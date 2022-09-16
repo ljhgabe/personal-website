@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://lingy12.github.io/lgy-web",
   "dependencies": {
     "bootstrap": "^4.3.1",
