@@ -6,55 +6,67 @@ class About extends React.Component {
     super();
     this.state = {
       skills: [
-        { id: "HTML5_skill", content: "HTML5", porcentage: "80%", value: "80" },
-        { id: "CSS3_skill", content: "CSS3", porcentage: "75%", value: "75" },
-        {
-          id: "JavaScript_skill",
-          content: "JavaScript",
-          porcentage: "90%",
-          value: "90"
-        },
-        { id: "PHP_skill", content: "PHP", porcentage: "70%", value: "70" },
-        {
-          id: "ReactJS_skill",
-          content: "ReactJS",
-          porcentage: "80%",
-          value: "80"
-        },
+        { id: "Java_skill", content: "Java", porcentage: "90%", value: "90" },
+        { id: "C++_skill", content: "C++", porcentage: "90%", value: "90" },
         {
           id: "Python_skill",
           content: "Python",
-          porcentage: "75%",
-          value: "75"
+          porcentage: "90%",
+          value: "90"
         },
         {
-          id: "VanillaJS_skill",
-          content: "VanillaJS",
-          porcentage: "85%",
-          value: "85"
+          id: "Tensorflow_skill",
+          content: "Tensorflow",
+          porcentage: "90%",
+          value: "90"
         },
+        { id: "Pytorch_skill", content: "Pytorch", porcentage: "85%", value: "85" },
         {
-          id: "Wordpress_skill",
-          content: "Wordpress",
+          id: "Machine Learning_skill",
+          content: "Machine Learning",
           porcentage: "80%",
           value: "80"
+        },
+        {
+          id: "SQL_skill",
+          content: "SQL",
+          porcentage: "70%",
+          value: "70"
+        },
+        {
+          id: "Spark_skill",
+          content: "Spark",
+          porcentage: "60%",
+          value: "60"
+        },
+        {
+          id: "ReactJS_skill",
+          content: "ReactJS",
+          porcentage: "50%",
+          value: "50"
+        },
+        {
+          id: "SpringBoot_skill",
+          content: "SpringBoot",
+          porcentage: "50%",
+          value: "50"
         }
       ],
       about_me: [
         {
           id: "first-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "I am a Computer Science student in National University of Singapore graduating in 2023. The left hand side progress bar shows the skills that I know and my confidence level."
         },
         {
           id: "second-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "I am enthusiastic about developing machine learning application in different domain. I have done several machine learning projects with respect to Human Activity Recognition, Image Classification and Planning using Reinforcement Learning.I also have background about developing full stack application and system testing for large scale system."
         },
         {
           id: "third-p-about",
           content:
-            "Lorem ipsum pariatur consectetur laboris occaecat nulla aliqua irure ad deserunt duis. Eiusmod nulla cupidatat labore sint sit aute dolore irure nostrud ut incididunt. Anim laborum reprehenderit labore magna ut dolore quis irure. Labore ea duis deserunt ullamco irure fugiat deserunt ut nisi ea minim proident. Nisi consectetur do non magna duis aliqua minim minim veniam. In occaecat minim qui consequat elit mollit consectetur non id tempor. Amet adipisicing occaecat tempor culpa quis est duis."
+            "I am interested in discussion about Machine Learning techniques and cutting edge application development technique."
         }
       ]
     };
