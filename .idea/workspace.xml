@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b655ce0-4726-43b5-acda-3885fc7c71d6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/about.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/about.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/contact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/contact.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/experience.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/experience.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/intro.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/intro.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/portfolio.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/CS3244.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/EsenseLog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/IntelliJournal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/agoda_logo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/learn.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/machine_learning_pipeline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/nus_logo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/paypal_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/rl.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IdGx8WFcweHLeWXIs619yMd00p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b655ce0-4726-43b5-acda-3885fc7c71d6" name="Changes" comment="" />
+      <created>1670504290907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670504290907</updated>
+      <workItem from="1670504292224" duration="30000" />
+      <workItem from="1670504339113" duration="445000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

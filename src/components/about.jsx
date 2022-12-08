@@ -6,8 +6,8 @@ class About extends React.Component {
     super();
     this.state = {
       skills: [
-        { id: "Java_skill", content: "Java", porcentage: "90%", value: "90" },
-        { id: "C++_skill", content: "C++", porcentage: "90%", value: "90" },
+
+        { id: "C++_skill", content: "C++", porcentage: "80%", value: "80" },
         {
           id: "Python_skill",
           content: "Python",
@@ -15,58 +15,46 @@ class About extends React.Component {
           value: "90"
         },
         {
-          id: "Tensorflow_skill",
-          content: "Tensorflow",
-          porcentage: "90%",
-          value: "90"
-        },
-        { id: "Pytorch_skill", content: "Pytorch", porcentage: "85%", value: "85" },
-        {
-          id: "Machine Learning_skill",
-          content: "Machine Learning",
+          id: "PyTorch_skill",
+          content: "PyTorch",
           porcentage: "80%",
           value: "80"
+        },
+        { id: "Java_skill", content: "Java", porcentage: "70%", value: "70" },
+        {
+          id: "VanillaJS_skill",
+          content: "VanillaJS",
+          porcentage: "85%",
+          value: "85"
         },
         {
           id: "SQL_skill",
           content: "SQL",
-          porcentage: "70%",
-          value: "70"
+          porcentage: "80%",
+          value: "80"
         },
         {
-          id: "Spark_skill",
-          content: "Spark",
-          porcentage: "60%",
-          value: "60"
-        },
-        {
-          id: "ReactJS_skill",
-          content: "ReactJS",
-          porcentage: "50%",
-          value: "50"
-        },
-        {
-          id: "SpringBoot_skill",
-          content: "SpringBoot",
-          porcentage: "50%",
-          value: "50"
+          id: "LaTeX_skill",
+          content: "LaTeX",
+          porcentage: "75%",
+          value: "75"
         }
       ],
       about_me: [
         {
           id: "first-p-about",
           content:
-            "I am a Computer Science student in National University of Singapore graduating in 2023. The left hand side progress bar shows the skills that I know and my confidence level."
+            "I am an undergraduate student studying Applied Mathematics and Computer Science at National University of Singapore. The bar on the left hand side indicates my proficiency in different programming languages / libraries. "
         },
         {
           id: "second-p-about",
           content:
-            "I am enthusiastic about developing machine learning application in different domain. I have done several machine learning projects with respect to Human Activity Recognition, Image Classification and Planning using Reinforcement Learning.I also have background about developing full stack application and system testing for large scale system."
+            "I specialize in financial mathematics and machine learning, but I am also genuinely passionate in software development. I have done several projects within the field of quantitative finance, computer vision and natural language processing. Currently I am inclined to deep learning and I want to explore and research more on the area of computer vision / natural language processing. However, I am open to any internship opportunities in Quantitative Research, Algorithm and Software engineer. Please feel free to reach out to me under the contact section."
         },
         {
           id: "third-p-about",
           content:
-            "I am interested in discussion about Machine Learning techniques and cutting edge application development technique."
+            "Besides study, I do sports, read, and make beats. "
         }
       ]
     };
