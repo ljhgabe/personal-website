@@ -84,7 +84,7 @@ class Portfolio extends React.Component {
                 <div className="work-box">
                   <a href="https://github.com/ljhgabe/OSIC-Pulmonary-Fibrosis-Progression-Prediction" target="_blank">
                     <div className="work-img">
-                      <img src={pip} alt="" className="img-fluid" />
+                      <img src={osic} alt="" className="img-fluid" />
                     </div>
                     <div className="work-content">
                       <div className="row">
