@@ -14,7 +14,7 @@ import learn from "../img/learning.png"
 class Portfolio extends React.Component {
   render() {
     return (
-        <section id="work" className="portfolio-mf sect-pt4 route">
+        <section id="project" className="portfolio-mf sect-pt4 route">
           <div className="container">
             <div className="row">
               <div className="col-sm-12">
